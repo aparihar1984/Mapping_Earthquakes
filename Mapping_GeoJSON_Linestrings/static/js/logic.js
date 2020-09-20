@@ -86,7 +86,7 @@ streets.addTo(map);
 // let airportData = "https://raw.githubusercontent.com/aparihar1984/Mapping_Earthquakes/Mapping_GeoJSON_Points/majorAirports.json";
 
 // Accessing the Toronto airline routes GeoJSON URL.
-let torontoData = "https://raw.githubusercontent.com/aparihar1984/Mapping_Earthquakes/Mapping_GeoJSON_Linestrings/torontoRoutes.json";
+let torontoData = "https://raw.githubusercontent.com/aparihar1984/Mapping_Earthquakes/master/torontoRoutes.json";
 
 // Grabbing our GeoJSON data.
 // d3.json(airportData).then(function(data) {
